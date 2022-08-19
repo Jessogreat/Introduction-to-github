@@ -1,4 +1,3 @@
 ---
-title: Welcome to my blog
+title: Xingyu Qu
 ---
-$\min_{A}\||XA-B\||^{2}_{F}$
