@@ -1,4 +1,4 @@
 ---
-title: Xingyu Qu's Blog
+title: Welcome to my blog!
 ---
 
