@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Xingyu Qu's Blog
 ---
-$\min_{A}\||XA-B\||^{2}_{F}$
+$\min\_{A}^{2}\_{F}$
