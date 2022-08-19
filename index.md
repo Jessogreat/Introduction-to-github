@@ -1,3 +1,3 @@
 ---
-title: Xingyu Qu
+title: Xingyu Qu's Blog
 ---
